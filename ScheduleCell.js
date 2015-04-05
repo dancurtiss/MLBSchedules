@@ -10,17 +10,17 @@ var {
   View
 } = React;
 
-var TeamCell = React.createClass({
+var ScheduleCell = React.createClass({
   render: function() {
-    // console.log('team cell:' + this.props.team.full_name);
-    var team = this.props.team;
+    console.log('schedule cell:' + this.props.result.event_id);
+    var result = this.props.result;
     return (
       <View>
         <TouchableHighlight onPress={this.props.onSelect}>
           <View style={styles.row}>
             <View style={styles.textContainer}>
               <Text style={styles.teamName} numberOfLines={2}>
-                {team.full_name}
+                {result.event_id}
               </Text>
             </View>
           </View>
@@ -61,4 +61,4 @@ var styles = StyleSheet.create({
   },
 });
 
-module.exports = TeamCell;
+module.exports = ScheduleCell;

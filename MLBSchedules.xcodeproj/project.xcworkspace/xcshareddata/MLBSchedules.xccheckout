@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B27248D4-989D-496D-8FC2-4BD730DFA760</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MLBSchedules</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F37C5C0DA0AFE55FEB1B73211C26F005B0FA274F</key>
+		<string>https://github.com/dancurtiss/MLBSchedules.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MLBSchedules.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F37C5C0DA0AFE55FEB1B73211C26F005B0FA274F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dancurtiss/MLBSchedules.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F37C5C0DA0AFE55FEB1B73211C26F005B0FA274F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F37C5C0DA0AFE55FEB1B73211C26F005B0FA274F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MLBSchedules</string>
+		</dict>
+	</array>
+</dict>
+</plist>
